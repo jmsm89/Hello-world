@@ -2,4 +2,4 @@
 
 Hi!
 
-Here you can see the vhanges apllied to this version.
+Here you can see the changes apllied to this version.
